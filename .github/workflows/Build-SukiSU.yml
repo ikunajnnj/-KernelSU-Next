@@ -13,7 +13,7 @@ jobs:
       CPUD: pineapple
       ANDROID_VERSION: android14
       KERNEL_VERSION: '6.1'
-      KERNEL_NAME: -android14-11-o-hange
+      KERNEL_NAME: -android14-o-hange
       kernelsu_variant: SukiSU
       kernelsu_version: main
       SUSFS_ENABLED: true
